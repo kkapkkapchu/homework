@@ -1,0 +1,15 @@
+h2{
+	color: white;
+}
+.card-item{
+	display: inline-block;
+}
+.card-item .name{
+	color: white;
+	display: block;
+}
+.card-item img{
+	width: 400px;
+	height: 500px;
+	cursor: pointer;
+}

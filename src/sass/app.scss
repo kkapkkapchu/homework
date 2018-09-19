@@ -1,0 +1,44 @@
+@import 'base/reset';
+
+#content{
+	color: white;
+}
+h1, h2{
+	color: white;
+}
+.verse{
+	font-size: 50px;
+}
+.card-item{
+	display: inline-block;
+}
+.card-item .name{
+	display: block;
+}
+.card-item img{
+	width: 400px;
+	height: 500px;
+	cursor: pointer;
+}
+.card-item.winner{
+	display: block;
+}
+.hidden{
+	display: none;
+}
+
+#history{
+	margin-top: 50px;
+}
+.history{
+	display: inline-block;
+	margin-top: 10px;
+	margin-right: 5px;
+}
+.history img{
+	width: 50px;
+	height: 75px;
+}
+.history .name{
+	display: block;
+}
