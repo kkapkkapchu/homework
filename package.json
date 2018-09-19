@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "tournament",
   "keywords": [
-    "tournament",
-    "mohwa"
+    "tournament"
   ],
-  "homepage": "https://github.com/mohwa/le.test",
+  "homepage": "https://github.com/kkapkkapchu/lezhin-homework",
   "author": {
-    "name": "mohwa",
-    "email": "yanione2@gmail.com"
+    "name": "wooriko",
+    "email": "woorikokr@gmail.com"
   },
   "dependencies": {
     "babel-core": "6.26.0",
